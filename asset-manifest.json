@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/DenisNascimento04/Landing_page.git/static/css/main.557cc1e3.css",
-    "main.js": "/DenisNascimento04/Landing_page.git/static/js/main.424f1d0d.js",
-    "static/media/MG.png": "/DenisNascimento04/Landing_page.git/static/media/MG.3971f26fc389ec5ea1e0.png",
-    "static/media/VG.png": "/DenisNascimento04/Landing_page.git/static/media/VG.2132b6301019d58310a3.png",
-    "static/media/HG.png": "/DenisNascimento04/Landing_page.git/static/media/HG.008b9b526fd41051939a.png",
-    "static/media/02.png": "/DenisNascimento04/Landing_page.git/static/media/02.fc99a5e961ce2b219cf6.png",
-    "static/media/03.png": "/DenisNascimento04/Landing_page.git/static/media/03.748f39bfd5a9cd84f496.png",
-    "static/media/01.png": "/DenisNascimento04/Landing_page.git/static/media/01.e0da43dbdf91d48444c8.png",
-    "index.html": "/DenisNascimento04/Landing_page.git/index.html",
-    "main.557cc1e3.css.map": "/DenisNascimento04/Landing_page.git/static/css/main.557cc1e3.css.map",
-    "main.424f1d0d.js.map": "/DenisNascimento04/Landing_page.git/static/js/main.424f1d0d.js.map"
+    "main.css": "/DenisNascimento04/Landing_page/static/css/main.557cc1e3.css",
+    "main.js": "/DenisNascimento04/Landing_page/static/js/main.766d60b2.js",
+    "static/media/MG.png": "/DenisNascimento04/Landing_page/static/media/MG.3971f26fc389ec5ea1e0.png",
+    "static/media/VG.png": "/DenisNascimento04/Landing_page/static/media/VG.2132b6301019d58310a3.png",
+    "static/media/HG.png": "/DenisNascimento04/Landing_page/static/media/HG.008b9b526fd41051939a.png",
+    "static/media/02.png": "/DenisNascimento04/Landing_page/static/media/02.fc99a5e961ce2b219cf6.png",
+    "static/media/03.png": "/DenisNascimento04/Landing_page/static/media/03.748f39bfd5a9cd84f496.png",
+    "static/media/01.png": "/DenisNascimento04/Landing_page/static/media/01.e0da43dbdf91d48444c8.png",
+    "index.html": "/DenisNascimento04/Landing_page/index.html",
+    "main.557cc1e3.css.map": "/DenisNascimento04/Landing_page/static/css/main.557cc1e3.css.map",
+    "main.766d60b2.js.map": "/DenisNascimento04/Landing_page/static/js/main.766d60b2.js.map"
   },
   "entrypoints": [
     "static/css/main.557cc1e3.css",
-    "static/js/main.424f1d0d.js"
+    "static/js/main.766d60b2.js"
   ]
 }
