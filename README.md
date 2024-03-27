@@ -3,7 +3,7 @@
 Pagina feita atraves de um desafio do [Frontend Mentor](https://www.frontendmentor.io/).
 
 ## 🚀 Começando
-Este é o meu primeiro projeto Front-end e mara o começo do me caminho.
+Este é o meu primeiro projeto Front-end e marca o começo do me caminho.
 Trata-se de uma pagina simples e sem funcionalidades apenas para partica de estilizção e organização do codigo.
 
 ## 🛠️ Ferramentas utilizadas
